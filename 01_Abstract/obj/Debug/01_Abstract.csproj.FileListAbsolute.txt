@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\01_Abstract\bin\Debug\01_Abstract.exe.config
+E:\Workspace_CSharp\01_Abstract\bin\Debug\01_Abstract.exe
+E:\Workspace_CSharp\01_Abstract\bin\Debug\01_Abstract.pdb
+E:\Workspace_CSharp\01_Abstract\obj\Debug\01_Abstract.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\01_Abstract\obj\Debug\01_Abstract.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\01_Abstract\obj\Debug\01_Abstract.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\01_Abstract\obj\Debug\01_Abstract.exe
+E:\Workspace_CSharp\01_Abstract\obj\Debug\01_Abstract.pdb

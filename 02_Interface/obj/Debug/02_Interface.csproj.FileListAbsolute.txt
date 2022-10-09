@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\02_Interface\bin\Debug\02_Interface.exe.config
+E:\Workspace_CSharp\02_Interface\bin\Debug\02_Interface.exe
+E:\Workspace_CSharp\02_Interface\bin\Debug\02_Interface.pdb
+E:\Workspace_CSharp\02_Interface\obj\Debug\02_Interface.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\02_Interface\obj\Debug\02_Interface.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\02_Interface\obj\Debug\02_Interface.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\02_Interface\obj\Debug\02_Interface.exe
+E:\Workspace_CSharp\02_Interface\obj\Debug\02_Interface.pdb
