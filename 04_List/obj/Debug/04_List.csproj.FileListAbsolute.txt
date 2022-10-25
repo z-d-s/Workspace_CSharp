@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\04_List\bin\Debug\04_List.exe.config
+E:\Workspace_CSharp\04_List\bin\Debug\04_List.exe
+E:\Workspace_CSharp\04_List\bin\Debug\04_List.pdb
+E:\Workspace_CSharp\04_List\obj\Debug\04_List.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\04_List\obj\Debug\04_List.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\04_List\obj\Debug\04_List.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\04_List\obj\Debug\04_List.exe
+E:\Workspace_CSharp\04_List\obj\Debug\04_List.pdb

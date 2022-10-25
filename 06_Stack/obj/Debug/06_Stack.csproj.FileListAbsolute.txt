@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\06_Stack\bin\Debug\06_Stack.exe.config
+E:\Workspace_CSharp\06_Stack\bin\Debug\06_Stack.exe
+E:\Workspace_CSharp\06_Stack\bin\Debug\06_Stack.pdb
+E:\Workspace_CSharp\06_Stack\obj\Debug\06_Stack.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\06_Stack\obj\Debug\06_Stack.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\06_Stack\obj\Debug\06_Stack.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\06_Stack\obj\Debug\06_Stack.exe
+E:\Workspace_CSharp\06_Stack\obj\Debug\06_Stack.pdb

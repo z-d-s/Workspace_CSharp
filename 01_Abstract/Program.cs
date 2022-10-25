@@ -6,6 +6,17 @@ using System.Threading.Tasks;
 
 namespace _01_Abstract
 {
+    class MyClass
+    {
+        private string name;
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -13,6 +24,10 @@ namespace _01_Abstract
             Rectangle rect = new Rectangle(13, 28);
             int a = rect.area();
             Console.WriteLine(a);
+
+            MyClass mc = new MyClass();
+            mc.Name = "aaaa";
+            Console.WriteLine(mc.Name);
 
             Console.ReadKey();
         }

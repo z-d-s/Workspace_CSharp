@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\08_Event\obj\Debug\08_Event.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\08_Event\obj\Debug\08_Event.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\08_Event\obj\Debug\08_Event.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\08_Event\bin\Debug\08_Event.exe.config
+E:\Workspace_CSharp\08_Event\bin\Debug\08_Event.exe
+E:\Workspace_CSharp\08_Event\bin\Debug\08_Event.pdb
+E:\Workspace_CSharp\08_Event\obj\Debug\08_Event.exe
+E:\Workspace_CSharp\08_Event\obj\Debug\08_Event.pdb

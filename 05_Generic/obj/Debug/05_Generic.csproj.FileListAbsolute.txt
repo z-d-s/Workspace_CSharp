@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\05_Generic\bin\Debug\05_Generic.exe.config
+E:\Workspace_CSharp\05_Generic\bin\Debug\05_Generic.exe
+E:\Workspace_CSharp\05_Generic\bin\Debug\05_Generic.pdb
+E:\Workspace_CSharp\05_Generic\obj\Debug\05_Generic.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\05_Generic\obj\Debug\05_Generic.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\05_Generic\obj\Debug\05_Generic.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\05_Generic\obj\Debug\05_Generic.exe
+E:\Workspace_CSharp\05_Generic\obj\Debug\05_Generic.pdb

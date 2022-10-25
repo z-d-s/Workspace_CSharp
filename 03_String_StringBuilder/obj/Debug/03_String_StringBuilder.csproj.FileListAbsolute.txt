@@ -1,0 +1,8 @@
+E:\Workspace_CSharp\03_String_StringBuilder\bin\Debug\03_String_StringBuilder.exe.config
+E:\Workspace_CSharp\03_String_StringBuilder\bin\Debug\03_String_StringBuilder.exe
+E:\Workspace_CSharp\03_String_StringBuilder\bin\Debug\03_String_StringBuilder.pdb
+E:\Workspace_CSharp\03_String_StringBuilder\obj\Debug\03_String_StringBuilder.csproj.AssemblyReference.cache
+E:\Workspace_CSharp\03_String_StringBuilder\obj\Debug\03_String_StringBuilder.csproj.SuggestedBindingRedirects.cache
+E:\Workspace_CSharp\03_String_StringBuilder\obj\Debug\03_String_StringBuilder.csproj.CoreCompileInputs.cache
+E:\Workspace_CSharp\03_String_StringBuilder\obj\Debug\03_String_StringBuilder.exe
+E:\Workspace_CSharp\03_String_StringBuilder\obj\Debug\03_String_StringBuilder.pdb
